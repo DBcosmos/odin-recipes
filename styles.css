@@ -1,0 +1,27 @@
+#darkmode {
+    background-color: rgb(56, 55, 55);
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font: "times new roman", helvatica, "sans serif";
+    font-size: 75px;
+}
+
+.index {
+    font-size: 50px;
+    text-align: center;
+}
+
+#lasagna {
+    background-color: red;
+}
+
+#burger {
+    background-color: white;
+}
+
+#grilled-cheese {
+    background-color: green;
+}
